@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(235, 171, 229);
+}
+.class1 {
+    font-size: 24px;
+}
+#blue {
+    color:rgb(47, 15, 228);
+    font-size: 36px;
+    font-weight: 400;
+}
+#green {
+    background-color:rgb(113, 238, 169);
+    font-size: 24px;
+    font-weight: 800;
+}
