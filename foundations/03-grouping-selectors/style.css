@@ -1,0 +1,13 @@
+.boxfont {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box1 {
+    background-color: black;
+    color: white;
+}
+
+.box2 {
+    background-color: yellow;
+}
