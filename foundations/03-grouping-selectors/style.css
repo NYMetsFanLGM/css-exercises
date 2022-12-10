@@ -1,13 +1,11 @@
-.boxfont {
+.boxfont,.box1, .box2 {
     font-size: 28px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: helvetica, "times new roman", sans-serif;
 }
-
 .box1 {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
 }
-
 .box2 {
-    background-color: yellow;
+    background-color: hsl(60, 100%, 53%);
 }
